@@ -1,6 +1,12 @@
 ### Hi, I'm Stilyana 👋
 
-👩‍💻I'm currently learning JavaScript.
+🌱 I'm currently learning **JavaScript.**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stilyanan" alt="stilyanan" /></a> </p>
+
+
+
 
 
 ### GitHub Stats
