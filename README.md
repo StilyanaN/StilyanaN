@@ -3,7 +3,7 @@
 🌱 I'm currently learning **JavaScript.**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stilyanan" alt="stilyanan" /></a> </p>
+<p align="left"> <a href="https://github.com/stilyanan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stilyanan" alt="stilyanan" /></a> </p>
 
 
 
