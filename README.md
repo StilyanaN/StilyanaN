@@ -2,6 +2,8 @@
 
 🌱 I'm currently learning **JavaScript.**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stilyanan&label=Profile%20views&color=ff69b4&style=flat" alt="stilyanan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/stilyanan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stilyanan" alt="stilyanan" /></a> </p>
 
